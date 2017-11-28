@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1511885638 source:/home/empa/cpp_code/CoderLaure001/CoderLaure001/main.cpp
+	<iostream>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+
+1511883024 source:/home/empa/lib_inc/src/glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
